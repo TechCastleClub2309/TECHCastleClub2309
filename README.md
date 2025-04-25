@@ -38,8 +38,11 @@
 <p align="left"></p>
 
 ###
+<div align="right">
+</div>
 
 
+![Funny Coding Cat](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGh2cTd4ZWxzazNhaTJva3hzZmgwN2dseDVjN3JmYTZraGFrZWM3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif)  
 ###
 
 <div align="left">
