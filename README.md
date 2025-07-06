@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/company/tech-castle-club/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/tech-castle-club/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/techcastlee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/techcastlee" height="30" width="40" /></a>
   <div align="left">
-  <a href="https://discord.gg/fhucWjZD" target="_blank">
+  <a href="https://discord.gg/qQ6xNHNfPj" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </p>
 
